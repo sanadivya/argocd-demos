@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: online-shop
-        image: amitabhdevops/online_shop:latest
+        image: sanadivya016/online_shop:latest
         ports:
         - containerPort: 3000
         resources:
